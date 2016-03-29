@@ -16,7 +16,7 @@ string = function(text) {
     character = characters[i];
     wrenches = '';
     wrench_count = Math.round(Math.random() * 10);
-    for (var j = 0; j < wrench_count; j ++) {
+    for (var j = 0; j < wrench_count; j++) {
       wrenches += wrench;
     }
     scrambled_text = scrambled_text + character + wrenches;
