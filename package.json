@@ -1,0 +1,28 @@
+{
+  "name": "geniusdefender.js",
+  "version": "0.0.1",
+  "description": "scramble strings with invisible characters so they're unreadable by genius.com web annotations",
+  "main": "genius-defender.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vijithassar/genius-defender-js.git"
+  },
+  "keywords": [
+    "text",
+    "strings",
+    "annotation",
+    "Genius",
+    "Rap",
+    "Genius",
+    "genius.com"
+  ],
+  "author": "Vijith Assar",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/vijithassar/genius-defender-js/issues"
+  },
+  "homepage": "https://github.com/vijithassar/genius-defender-js#readme"
+}
